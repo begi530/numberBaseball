@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\bin\Debug\numberBaseball.exe.config
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\bin\Debug\numberBaseball.exe
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\bin\Debug\numberBaseball.pdb
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.Form1.resources
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.Properties.Resources.resources
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.exe
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.pdb
+C:\Users\USER\source\repos\Work_B\last\numberBaseball\numberBaseball\obj\Debug\numberBaseball.explanation.resources
